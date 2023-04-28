@@ -1,0 +1,59 @@
+.todo {
+    height: 60px;
+    font-size: 29px;
+    color: #fff;
+    background-color: #25bd14;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+}
+
+.inputAdd {
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    padding: 4px 20px 12px 40px;
+    margin-top: 10px;
+}
+
+.root3 {
+    display: flex;
+    flex: 1;
+}
+
+.btn {
+    margin-top: 10px;
+    margin-left: 3px;
+}
+
+.checkBox {
+    margin-left: 5px;
+    width: 25px;
+    height: 25px;
+    border: 3px solid rgb(59, 7, 7);
+    border-radius: 6px;
+    box-sizing: border-box;
+    background-size: cover;
+}
+
+.btn2 {
+    margin-left: 2px;
+}
+
+.inputText2 {
+    background-color: rgb(207, 244, 252);
+    border-radius: 5px;
+    border: hidden;
+    width: 92%;
+    height: 35px;
+}
+
+.lgroup {
+    margin-top: 4px;
+    width: 100%;
+}
